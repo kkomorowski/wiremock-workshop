@@ -1,0 +1,1 @@
+curl -o wiremock-standalone-3.13.2.jar https://repo1.maven.org/maven2/org/wiremock/wiremock-standalone/3.13.2/wiremock-standalone-3.13.2.jar

@@ -1,0 +1,15 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "GET",
+    "url": "/greeting"
+  },
+  "response": {
+    "status": 200,
+    "body": "{\"message\": \"Hello, World!\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  },
+  "persistent" : true
+}
